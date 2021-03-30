@@ -1,1 +1,1 @@
-hooks.push(new BuildingEN(100, "Epic Test", 1, "testOne", 0));
+hooks.push(new BuildingEN(1, "Epic Test", 1, "testOne", 0));
